@@ -22,7 +22,7 @@ Simple Express + MongoDB backend for MyCheckStore.
   npm run dev
   ```
 
-## API Endpoints
+## API Endpoints 
 
 - `GET /` - root health check
 - `POST /api/auth/login`
@@ -31,3 +31,6 @@ Simple Express + MongoDB backend for MyCheckStore.
 - `GET /api/seller`
 - `GET /api/contacts`
 - `GET /api/orders`
+
+## Test API
+- http://localhost:3000/api/seller/profile
