@@ -13,13 +13,9 @@ Simple Express + MongoDB backend for MyCheckStore.
 
 ## Run
 
-- Start production server:
+- Start server:
   ```bash
-  npm start
-  ```
-- Start dev server with auto-reload:
-  ```bash
-  npm run dev
+  node server.js
   ```
 
 ## API Endpoints 
